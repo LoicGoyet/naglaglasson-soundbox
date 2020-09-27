@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: fantasy;
+  color: white;
+  text-shadow: 2px 2px black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(2,0,36);
+  background: linear-gradient(161deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  background-size: 150px;
+  min-height: 100vh;
+  font-style: italic;
+  text-align: center;
+}
