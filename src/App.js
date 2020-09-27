@@ -24,7 +24,7 @@ function App() {
       </Grid>
 
       <Credit>
-        Réalisé par <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/stucklogo">@stuckLogo</a> (désolé)<br/>
+        Réalisé par <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/angerouge25">@angerouge25</a> et <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/stucklogo">@stuckLogo</a> (désolé)<br/>
         <small><a target="_blank" rel="noopener noreferrer" href="https://github.com/LoicGoyet/naglaglasson-soundbox">Le code source est disponible ici</a></small>
       </Credit>
     </Container>
